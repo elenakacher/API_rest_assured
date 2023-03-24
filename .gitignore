@@ -1,0 +1,5 @@
+# Project exclude paths
+/API_rest_assured/.gradle/
+/API_rest_assured/build/
+/API_rest_assured/build/classes/java/main/
+/API_rest_assured/build/classes/java/test/
